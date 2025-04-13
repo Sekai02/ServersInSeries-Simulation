@@ -126,3 +126,26 @@ myenv/
 
 # Markdown Statement
 sim_proy_1 .md
+
+# LaTeX junk files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Book files
+book/
